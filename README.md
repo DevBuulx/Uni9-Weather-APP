@@ -1,7 +1,7 @@
 # Weather App
 
 ![Screenshot do Weather App](https://github.com/DevBuulx/Uni9-Weather-APP/blob/Main/assets/screenshot.png)
-![Screenshot do Weather App2](https://github.com/DevBuulx/Uni9-Weather-APP/blob/Main/assets/screenshot2.png)
+![Screenshot do Weather App2](https://github.com/DevBuulx/Uni9-Weather-APP/blob/Main/assets/Screenshot2.png)
 
 ## Descrição
 Weather App é um aplicativo móvel simples desenvolvido com o framework Flutter para verificar o clima atual e a previsão do tempo. Ele utiliza a API do OpenWeatherMap para obter os dados meteorológicos com base na localização inserida pelo usuário.
